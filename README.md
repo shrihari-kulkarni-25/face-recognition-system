@@ -5,4 +5,4 @@ This project recognises faces based on the faces that are registered by running 
 
 ## Note
 
-Make sure you run "face_register.py" file first followed "face_recognition.py" file in order to identify the face.
+Make sure to run "face_register.py"  first followed by "face_recognition.py" in order to identify the face.
